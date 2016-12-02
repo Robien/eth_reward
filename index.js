@@ -3,7 +3,7 @@ var EventEmitter = require('events').EventEmitter
 var inherits = require('inherits')
 
 // This code is based on ut_metadata extention code
-// You can fin it here: https://github.com/feross/ut_metadata
+// You can find it here: https://github.com/feross/ut_metadata
 
 // As we only send the ethereum address (small value) we only use the handshake to do the transfert
 
