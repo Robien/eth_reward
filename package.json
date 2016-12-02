@@ -1,0 +1,42 @@
+{
+  "name": "eth_reward",
+  "description": "BitTorrent extension for peers to send ethereum address to maybe get rewards",
+  "version": "0.0.1",
+  "author": {
+    "name": "Robien"
+  },
+  "bugs": {
+    "url": "https://github.com/robien/eth_reward/issues"
+  },
+  "dependencies": {
+    "bencode": "^0.10.0",
+    "debug": "^2.2.0",
+    "inherits": "^2.0.1",
+    "safe-buffer": "^5.0.1"
+  },
+  "devDependencies": {
+    "bittorrent-protocol": "^2.0.0",
+    "brfs": "^1.2.0",
+    "standard": "*",
+    "tape": "^4.0.0",
+    "webtorrent-fixtures": "^1.3.0"
+  },
+  "keywords": [
+    "Extension for Peers to Send ethereum address",
+    "ethereum",
+    "webtorrent",
+    "bittorrent",
+    "metadata",
+    "p2p",
+    "torrent",
+    "eth_reward"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robien/eth_reward.git"
+  },
+  "scripts": {
+  }
+}
